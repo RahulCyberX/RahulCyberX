@@ -8,10 +8,10 @@ I’ve built my skills through practical experience, completing over 100 rooms o
 I also share my write-ups and notes through articles on my Medium page, hoping to help fellow cybersecurity enthusiasts navigate their cybersecurity path smoothly. 
 
 <div align="center">
-  <a href="https://tryhackme.com/p/RahulCyberDefense" target="_blank">
+  <a href="https://tryhackme.com/p/RahulCyberX" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=TryHackMe&logoColor=white" alt="TryHackMe Badge" />
   </a>
-  <a href="https://medium.com/@RahulCyberDefense" target="_blank">
+  <a href="https://medium.com/@rahulcyberx" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge" />
   </a>
 </div>
