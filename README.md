@@ -3,9 +3,9 @@
 I'm a 22-year-old B.Tech graduate in Computer Science Engineering (CSE), fueled by a passion for cybersecurity. 
 As a fresher, I’m ready to jump into the world of cyber defense, aiming to kickstart my career as a Cybersecurity Analyst. I’m a fast learner who believes that with consistent effort and time, anyone can master anything. My approach? Learn by doing, and I love getting my hands dirty with real-world security challenges!
 
-I’ve built my skills through practical experience, completing over 100 rooms on TryHackMe and earning a spot in the top 3% on the platform. From tackling Capture The Flag (CTF) challenges to diving deep into SIEM, network monitoring, endpoint security, threat intelligence, digital forensics, and incident response, I’m all about solving problems and staying ahead of threats. My GitHub repositories showcase my journey—filled with write-ups and walkthroughs on how I learn and tackle each challenges.
+I’ve built my skills through practical experience, completing over 100 rooms on TryHackMe and earning a spot in the **top 2%** on the platform. From tackling Capture The Flag (CTF) challenges to diving deep into SIEM, network monitoring, endpoint security, threat intelligence, digital forensics, and incident response, I’m all about solving problems and staying ahead of threats. My GitHub repositories showcase my journey—filled with write-ups and walkthroughs on how I learn and tackle each challenges.
 
-I also share my write-ups and notes through articles on my Medium page, hoping to help fellow cybersecurity enthusiasts navigate their cybersecurity path smoothly. 
+I also share my write-ups and notes through **articles** on my Medium page, hoping to help fellow cybersecurity enthusiasts navigate their cybersecurity path smoothly. 
 
 <div align="center">
   <a href="https://tryhackme.com/p/RahulCyberX" target="_blank">
@@ -54,3 +54,26 @@ Log analysis, Threat detection, Identifying anomalies, Securing networks, Protec
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows&logoColor=white"></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"></a>
     <a href="https://www.virtualbox.org/" target="_blank"><img src="https://img.shields.io/badge/VirtualBox-21416b?style=for-the-badge&logo=VirtualBox&logoColor=white"></a><br>
+
+## Projects (40+ Completed)
+| # | Project | Focus Area |
+|---|--------|------------|
+| 1 | Static Malware Analysis Using YARA | Malware Reverse Engineering |
+| 2 | Snort IDS Rule Writing and Live Traffic Analysis | Network IDS |
+| 3 | Snort Inline Mode Deployment and Attack Blocking | Active Defense |
+| 4 | Zeek Network Behavior Analysis and Anomaly Detection | NSM |
+| 5 | Threat Hunting with Brim and ZQL on Enterprise PCAPs | Threat Hunting |
+| 6 | Wireshark PCAP Analysis – Full Attack Chain Reconstruction | Packet Analysis |
+| 7 | TShark Command-Line Traffic Analysis and Automation | Automation |
+| 8 | Directory Traversal Detection Using TShark | Web Attack Detection |
+| 9 | Live Windows System Investigation with Sysinternals Suite | Live Response |
+| 10 | Windows Event Log Analysis with PowerShell and wevtutil | Log Forensics |
+| ... | *(35 more folders inside this repo)* | All blue-team domains |
+
+→ https://github.com/RahulCyberX/SOC-Analyst-Portfolio <br>
+**Each folder contains full write-up + tools/resources + screenshots + IOCs + commands used**
+
+## Certificates
+- Google Cybersecurity Professional Certificate – Sep 2025
+- TryHackMe Cybersecurity 101 - Sep 2025
+- TryHackMe SOC Level 1 Legacy - Nov 2025  
