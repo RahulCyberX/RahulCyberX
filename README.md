@@ -71,7 +71,6 @@ Log analysis, Threat detection, Identifying anomalies, Securing networks, Protec
 | ... | *(35 more folders inside this repo)* | All blue-team domains |
 
 → https://github.com/RahulCyberX/SOC-Analyst-Portfolio <br>
-**Each folder contains full write-up + tools/resources + screenshots + IOCs + commands used**
 
 ## Certificates
 - Google Cybersecurity Professional Certificate – Sep 2025
