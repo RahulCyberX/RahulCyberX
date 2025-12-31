@@ -1,11 +1,10 @@
 # Hi, I'm Rahul! 👋
 
-I'm a 22-year-old B.Tech graduate in Computer Science Engineering (CSE), fueled by a passion for cybersecurity. 
-As a fresher, I’m ready to jump into the world of cyber defense, aiming to kickstart my career as a Cybersecurity Analyst. I’m a fast learner who believes that with consistent effort and time, anyone can master anything. My approach? Learn by doing, and I love getting my hands dirty with real-world security challenges!
+B.Tech graduate in Computer Science Engineering with a strong focus on cybersecurity and blue-team operations. As a fresher, I’m actively seeking opportunities to start my career as a Cybersecurity Analyst / SOC Analyst, where I can apply hands-on skills to detect, investigate, and respond to real-world threats.
 
-I’ve built my skills through practical experience, completing over 100 rooms on TryHackMe and earning a spot in the **top 2%** on the platform. From tackling Capture The Flag (CTF) challenges to diving deep into SIEM, network monitoring, endpoint security, threat intelligence, digital forensics, and incident response, I’m all about solving problems and staying ahead of threats. My GitHub repositories showcase my journey—filled with write-ups and walkthroughs on how I learn and tackle each challenges.
+I’ve built a solid foundation through practical, lab-driven learning, completing 100+ hands-on rooms on TryHackMe and ranking in the top 2% globally. I document my learning through technical write-ups and walkthroughs on Github and Medium, with the goal of helping fellow beginners navigate their cybersecurity journey more effectively.
 
-I also share my write-ups and notes through **articles** on my Medium page, hoping to help fellow cybersecurity enthusiasts navigate their cybersecurity path smoothly. 
+A fast learner with a “learn-by-doing” mindset, I’m eager to contribute from day one, grow within a SOC environment, and continuously sharpen my defensive security skills.
 
 <div align="center">
   <a href="https://tryhackme.com/p/0xRahuL" target="_blank">
